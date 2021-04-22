@@ -1,4 +1,4 @@
-<h1 align="center">Settigns VScode📘<h1>
+<h1 align="center">Settings VScode📘<h1>
 
 ## Extensões VScode
 - **[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)**: Essa extensão faz a correção ortográfica no nosso código, funcionando melhor com camelcase (por padrão, corrige apenas o inglês).
